@@ -1,5 +1,11 @@
 # Covid-19-vaccination-Python
 
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 README: COVID-19 Vaccination Data Analysis
 Project Overview
 This project focuses on analyzing COVID-19 vaccination data to gain insights into global vaccination trends and relationships with socio-economic indicators. We use a dataset from the Our World in Data repository to explore the connections between vaccination rates and factors like GDP per capita, life expectancy, human development index (HDI), and median age.
