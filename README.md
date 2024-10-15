@@ -26,7 +26,6 @@ You can install these packages by running:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scipy scikit-learn
-```
 
 ### Dataset
 
