@@ -1,14 +1,14 @@
 
 # COVID-19 Data Analysis and Exploration Project
 
+You can find the Tableau visualizations for this analysis [here](https://public.tableau.com/app/profile/andor.varsanyi5689/viz/COVID-19_17283452139880/Dashboard).
+
 ## Overview
 
 This repository contains two main components for analyzing COVID-19 data:
 
 1. **Python Analysis**: A Jupyter Notebook that analyzes COVID-19 vaccination data to gain insights into global vaccination trends and their relationships with socio-economic indicators.
 2. **SQL Analysis**: A SQL file that explores various aspects of COVID-19 data, including infection rates, death counts, and vaccination progress across different countries and continents.
-
-You can find the Tableau visualizations for this analysis [here](https://public.tableau.com/app/profile/andor.varsanyi5689/viz/COVID-19_17283452139880/Dashboard).
 
 
 ## Python Analysis: COVID-19 Vaccination Data
